@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+httpx
+langgraph
+google-generativeai
+email-validator
