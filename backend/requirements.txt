@@ -8,4 +8,5 @@ passlib[bcrypt]
 httpx
 langgraph
 google-generativeai
+google-genai
 email-validator
